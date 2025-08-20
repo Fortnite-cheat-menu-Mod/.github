@@ -1,7 +1,4 @@
-<!-- Top Banner -->
-<p align="center"> 
-  <img src="https://i.ytimg.com/vi/xUr9K_7TWtM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDYlMDxgPDABeq7WN-yeKlL4YTPcQ" alt="Fortnite ESP Aim Assist Tool" width="70%" />
-</p>
+
 
 <h1 align="center">👁️ Fortnite ESP Aim Assist (Testing Utility)</h1>
 
